@@ -24,7 +24,7 @@ Directorio que se crea al momento de instalar la API. Contiene los paquetes y de
 
 ## Instalación
 
-* Para la instalación de la api, ejecuta el comando: 
+* Para la instalación de la API, ejecuta el comando: 
 ```objc
 	npm install 
 ```
@@ -35,18 +35,18 @@ Para la ejecución de la API existen dos maneras, con el comando `node` y el com
 
 **Ejecución con node**
 
-* Para la ejecución de la api con `node`, ejecuta el comando:
+* Para la ejecución de la API con `node`, ejecuta el comando:
 ```objc
 	node app.js 
 ```
 
 **Ejecución con nodemon**
 
-* Para la ejecución de la api con `nodemon`, ejecuta el comando:
+* Para la ejecución de la API con `nodemon`, ejecuta el comando:
 ```objc
 	nodemon app.js 
 ```
 
-* Para ver en funcionamiento la api. Desde un navegador ingresa a http://localhost:3000/ejemplo y se mostrará el mensaje que manda la api "Hola mundo"
+* Para ver en funcionamiento la API. Desde un navegador ingresa a http://localhost:3000/ejemplo y se mostrará el mensaje que manda la API "Hola mundo"
 
 
