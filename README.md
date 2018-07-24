@@ -14,7 +14,7 @@ Este código muestra el funcionamiento de una API creada con Node.js y Express.
 
 Este archivo muestra el código para crear una API REST.
 
-## Archivo `package-lock.json`
+## Archivo `package.json`
 
 Este archivo contiene detalle específico de las versiones de las dependencias que estan instaladas en el proyecto.
 
