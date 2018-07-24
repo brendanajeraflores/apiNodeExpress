@@ -47,6 +47,6 @@ Para la ejecución de la API existen dos maneras, con el comando `node` y el com
 	nodemon app.js 
 ```
 
-* Para ver en funcionamiento la API. Desde un navegador ingresa a http://localhost:3000/ejemplo y se mostrará el mensaje que manda la API "Hola mundo"
+* Para ver en funcionamiento la API. Desde un navegador ingresa a http://localhost:3000/ejemplo y se mostrará el mensaje que manda la API "Hola mundo".
 
 
